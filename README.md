@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mmatsie Sara Bopape</h1>
-<h3 align="center">🚀 Passionate About Software Development & Cybersecurity | Third-Year Computer Science Student at Walter Sisulu University</h3>
+<h3 align="center">🚀 Passionate About Web Development, Software Development & Cybersecurity | Third-Year Computer Science Student at Walter Sisulu University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahbopape0758&label=Profile%20views&color=0e75b6&style=flat" alt="sarahbopape0758" /> </p>
 
